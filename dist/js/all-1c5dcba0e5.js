@@ -53910,18 +53910,18 @@ this.activeTarget=b,this.clear();var c=this.selector+'[data-target="'+b+'"],'+th
         image: "img/faces/boyan.png",
         href: "http://staff.aberdeen.aberdeen-asset.com/person.aspx?accountname=aberdeen\\Boyan%20Filev"
       },
-      {
-        name: "Helen Webster",
-        title: "Product",
-        image: "img/faces/helen.png",
-        href: "http://staff.aberdeen.aberdeen-asset.com/person.aspx?accountname=aberdeen\\helen%20webster"
-      },
-      {
-        name: "Richard Gale",
-        title: "Property",
-        image: "img/faces/richard.png",
-        href: "http://staff.aberdeen.aberdeen-asset.com/person.aspx?accountname=aberdeen\\richard%20gale"
-      },
+    //   {
+    //     name: "Helen Webster",
+    //     title: "Product",
+    //     image: "img/faces/helen.png",
+    //     href: "http://staff.aberdeen.aberdeen-asset.com/person.aspx?accountname=aberdeen\\helen%20webster"
+    //   },
+    //   {
+    //     name: "Richard Gale",
+    //     title: "Property",
+    //     image: "img/faces/richard.png",
+    //     href: "http://staff.aberdeen.aberdeen-asset.com/person.aspx?accountname=aberdeen\\richard%20gale"
+    //   },
       {
         name: "Richard Patterson",
         title: "Quantitative Investments",
